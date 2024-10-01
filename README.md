@@ -1,1 +1,1 @@
-# hockey-egg
+# Migthy Ducks Hockey League
